@@ -1,0 +1,9 @@
+{
+	"name": "azuredf-raj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7b5f184-e9d1-466e-adac-744306923c23",
+		"tenantId": "0b7a5ba6-6c5e-48b6-b5ad-cd369389eaf6"
+	}
+}
